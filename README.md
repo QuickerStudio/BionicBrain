@@ -47,3 +47,7 @@ BionicBrain：BionicBrain is an important milestone for robots to have autonomou
 - 1 个行为树匹配单元
 
 分别对应着主控意识系统、推理转换行为系统以及行为树管理系统。
+
+目前机器人的发展有了大脑，还缺仿生脑干和脊髓。
+脑干和小脑是行为树操作管理系统。
+脊髓神经系统是感官系统和物理世界的链接管理系统。
