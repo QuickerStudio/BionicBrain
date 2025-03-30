@@ -37,6 +37,7 @@ BionicBrain：BionicBrain is an important milestone for robots to have autonomou
 快速思考用于调用自身的行为能力。
 
 深度思考用于解析环境和自身行为能力的行为模式的过程推理。
+
 ---
 
 再来回顾一下，我们是如何产生意识的。
