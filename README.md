@@ -45,7 +45,7 @@ BionicBrain：BionicBrain is an important milestone for robots to have autonomou
 
 深度思考包含了大量的技能，由简单行为和复杂行为组成的混合任务系统。
 
-快速思考用于调用自身的行为能力。
+快速思考用于调用自身的行为能力的本能反应。
 
 深度思考用于解析环境和自身行为能力的行为模式的过程推理。
 
